@@ -3,8 +3,10 @@ title: About
 layout: page
 ---
 
-asdHey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+Hi! Welcome to my little blog where I will go every day adding news and interesting things related to pentesting and red team.
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
+You can find the source code for this template on <a target="_blank" href="https://github.com/m4rxb/m4rxb.github.io">Github</a>
 
-(Change this by editing `about.md` file)
+I hope this blog is useful
+
+:)
