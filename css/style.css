@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+html {
+  background-color: black;
+  display: table;
+}
+body {
+  background-image: url("../img/3.png");
+  transition: background-image 1s ease-in-out;
+  font-family: monospace;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  background: #ccccc;
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility:    hidden;
+  -ms-backface-visibility:     hidden;
+}
+.bgr {
+  background-image: url("../img/5.gif") !important;
+}
+.container {
+  width:35%;
+  max-width:1000px;
+  min-width: 250px;
+}
+.main {
+  font-family: monospace;
+  background-color: #ffffff00;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 10%;
+  margin-left:auto;
+  margin-right:auto;
+}
+.title {
+  font-family: monospace;
+  color: black;
+  font-size: 30px;
+}
+
+.p {
+  font-size: 20px;
+}
+
+a {
+	text-decoration:none;
+}
+
+
+.jajaborde{
+  border-radius: 16%;
+  height: 4px;
+  width: 12%;
+  text-align:center;
+  background-color: #9175D8; /* color linea debajo del nombre  */
+  margin-top: 5px;
+}
