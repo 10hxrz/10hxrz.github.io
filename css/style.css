@@ -14,14 +14,11 @@ body {
   font-family: monospace;
   display: table-cell;
   vertical-align: middle;
-  text-align: center;
-  background: #ccccc;
   background-position: center center;
   background-repeat: no-repeat;
-  -webkit-backface-visibility: hidden;
-  -moz-backface-visibility:    hidden;
-  -ms-backface-visibility:     hidden;
+  background-size:cover;
 }
+
 .bgr {
   background-image: url("../img/5.gif") !important;
 }
