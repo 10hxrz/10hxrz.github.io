@@ -60,7 +60,7 @@ class TextScramble {
     '10hxrz',
     'hxrz10',
     '1hxr0z',
-    'hx10rz',
+    'h0hxrz',
   ]
   
   const el = document.querySelector('.text')
