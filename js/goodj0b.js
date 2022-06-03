@@ -57,10 +57,10 @@ class TextScramble {
   }
   
   const phrases = [
-    'kr1mz',
-    'krimz',
-    'kr1mz',
-    'kr1Mz',
+    '10hxrz',
+    'hxrz10',
+    '1hxr0z',
+    'hx10rz',
   ]
   
   const el = document.querySelector('.text')
